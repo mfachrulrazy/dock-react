@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-<h1> Website React by Oji </h1>
+<h1> Web React by Oji </h1>
         <p>
-          Edit ki file yang ada di <code>src/App.js</code> baru simpan dan reload.
+          Edit file <code>src/App.js</code> kemudian simpan dan reload.
         </p>
         <a
           className="App-link"
